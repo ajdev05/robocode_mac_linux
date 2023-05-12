@@ -1,2 +1,2 @@
-# robocode_mac_linux
+Robocode
 AP CSA Robocode for MacOS and Linux
